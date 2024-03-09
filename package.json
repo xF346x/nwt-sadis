@@ -1,0 +1,25 @@
+{
+  "name": "@kalahganteng/nwt-sadis",
+  "version": "1.0.0",
+  "description": "nwt-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xF346x/nwt-sadis.git"
+  },
+  "keywords": [
+    "nwt-sadis"
+  ],
+  "author": "kalahganteng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xF346x/nwt-sadis/issues"
+  },
+  "homepage": "https://github.com/xF346x/nwt-sadis#readme",
+  "dependencies": {
+    "kalahganteng": "^1.0.0"
+  }
+}
