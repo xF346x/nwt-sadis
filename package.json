@@ -1,6 +1,6 @@
 {
   "name": "@kalahganteng/nwt-sadis",
-  "version": "1.0.0",
+  "version": "2.8.1",
   "description": "nwt-project",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/xF346x/nwt-sadis#readme",
   "dependencies": {
-    "kalahganteng": "^1.0.0"
+    "kalahganteng": "^2.8.1"
   }
 }
